@@ -1,6 +1,12 @@
 SpectroCoin Bitcoin Merchant plugin for WordPress WooCommerce
 ---------------
 
+**MOVED**
+
+Up to date version can be found in [SpectroCoin Repo](https://github.com/SpectroCoin/WordPress-WooCommerce-Bitcoin-Payment-Gateway-Plugin)
+
+---------------
+
 This merchant module integrates [SpectroCoin](https://spectrocoin.com/) Payments with [WordPress](https://wordpress.org/) to accept [Bitcoin](https://bitcoin.org) payments.
 
 **INSTALLATION**
